@@ -1,0 +1,20 @@
+{
+  "name": "kavi-bana-website",
+  "version": "1.0.0",
+  "description": "Kavi Bana Hamuduruwo - Web System (React + Three.js + Node.js/Express)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "compression": "^1.8.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^18.0.4",
+    "express": "^4.22.3",
+    "express-rate-limit": "^8.7.0",
+    "express-session": "^1.19.0",
+    "express-validator": "^7.3.2",
+    "helmet": "^8.3.0",
+    "nodemailer": "^10.0.10"
+  }
+}
